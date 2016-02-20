@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pkgs>
+    <Mod type="dir">
+        <ocr type="dir">
+            <pkg type="pkg">
+                <download>http://offliness.file.alimmdn.com/ocr/zh_cn.zip</download>
+                <category>/Mod/ocr</category>
+                <name>拍照搜索模块(简体中文)</name>
+                <name_code>OCR_ZH_CN_V1.0</name_code>
+                <zip_size>17.7M</zip_size>
+                <pkg_size>40.1M</pkg_size>
+                <publisher>zjzengdongyang</publisher>
+                <md5>zjzengdongyang</md5>
+                <type>Mod</type>
+                <time>2015年11月1日</time>
+            </pkg>
+        </ocr>
+    </Mod>
+</pkgs>
