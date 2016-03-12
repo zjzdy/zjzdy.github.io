@@ -16,4 +16,54 @@
             </pkg>
         </ocr>
     </Mod>
+    <DevDoc type="dir">
+        <pkg type="pkg">
+            <download>http://zjzdy.github.io/oss/DevDoc/DevDoc_Bootstrap_4_4.0.0-alpha2_0.zip</download>
+            <category>/DevDoc</category>
+            <name>Bootstrap 4.0.0-alpha2 Document</name>
+            <name_code>DevDoc_Bootstrap_4_4.0.0-alpha2_0</name_code>
+            <zip_size>2.91MB</zip_size>
+            <type>DevDoc</type>
+        </pkg>
+        <pkg type="pkg">
+            <download>http://zjzdy.github.io/oss/DevDoc/DevDoc_C_25_0.zip</download>
+            <category>/DevDoc</category>
+            <name>C Document</name>
+            <name_code>DevDoc_C_25_0</name_code>
+            <zip_size>13.3MB</zip_size>
+            <type>DevDoc</type>
+        </pkg>
+        <pkg type="pkg">
+            <download>http://zjzdy.github.io/oss/DevDoc/DevDoc_C++_27_0.zip</download>
+            <category>/DevDoc</category>
+            <name>C++ Document</name>
+            <name_code>DevDoc_C++_27_0</name_code>
+            <zip_size>13.3MB</zip_size>
+            <type>DevDoc</type>
+        </pkg>
+        <pkg type="pkg">
+            <download>http://zjzdy.github.io/oss/DevDoc/DevDoc_Cocos2D-X_3.10.0_0.zip</download>
+            <category>/DevDoc</category>
+            <name>Cocos2D-X 3.10.0 Document</name>
+            <name_code>DevDoc_Cocos2D-X_3.10.0_0</name_code>
+            <zip_size>5.13MB</zip_size>
+            <type>DevDoc</type>
+        </pkg>
+        <pkg type="pkg">
+            <download>http://zjzdy.github.io/oss/DevDoc/DevDoc_Go_1.6.0_0.zip</download>
+            <category>/DevDoc</category>
+            <name>Go 1.6.0 Document</name>
+            <name_code>DevDoc_Go_1.6.0_0</name_code>
+            <zip_size>9.91MB</zip_size>
+            <type>DevDoc</type>
+        </pkg>
+        <pkg type="pkg">
+            <download>http://zjzdy.github.io/oss/DevDoc/DevDoc_Python_3_3.5.1_2_0.zip</download>
+            <category>/DevDoc</category>
+            <name>Python 3.5.1 Document</name>
+            <name_code>DevDoc_Python_3_3.5.1_2_0</name_code>
+            <zip_size>11.1MB</zip_size>
+            <type>DevDoc</type>
+        </pkg>
+    </DevDoc>
 </pkgs>
