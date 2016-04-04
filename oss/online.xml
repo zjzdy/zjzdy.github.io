@@ -66,4 +66,17 @@
             <type>DevDoc</type>
         </pkg>
     </DevDoc>
+    <GSW type="dir">
+        <opkg type="opkg">
+            <download>http://pan.baidu.com/s/1i47nfRB</download>
+            <download_readme>下载密码: 2vpm \n因文件过大,暂不提供自动下载,请手动下载并解压GSW_ALL_V1.2.zip.解压完成后,请进入离线包管理界面手动添加.</download_readme>
+            <category>/GSW</category>
+            <name>古诗文离线包V1.2</name>
+            <name_code>GSW_ALL_V1.2</name_code>
+            <update_code>GSW_ALL</update_code>
+            <version>12</version>
+            <zip_size>445MB</zip_size>
+            <type>GSW</type>
+        </opkg>
+    </GSW>
 </pkgs>
