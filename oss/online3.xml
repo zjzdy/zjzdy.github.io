@@ -21,7 +21,7 @@
 			<pkg type="pkg">
                 <open_url>false</open_url>
                 <download>http://zjzdy.github.io/oss/ocr/eng.zip</download>
-                <download_readme>加载本模块需要重启!</download_readme>
+                <download_readme>使用本模块会降低程序启动速度,加载本模块需要重启!</download_readme>
                 <category>/Mod/OCR</category>
                 <name>拍照搜索附加模块(英文)</name>
                 <name_code>OCR_ENG_V1.0</name_code>
@@ -35,7 +35,7 @@
 			<pkg type="pkg">
                 <open_url>false</open_url>
                 <download>http://zjzdy.github.io/oss/ocr/cht.zip</download>
-                <download_readme>加载本模块需要重启!</download_readme>
+                <download_readme>使用本模块会降低程序启动速度,加载本模块需要重启!</download_readme>
                 <category>/Mod/OCR</category>
                 <name>拍照搜索附加模块(繁体中文)</name>
                 <name_code>OCR_CHT_V1.0</name_code>
@@ -51,14 +51,42 @@
     <GSW type="dir">
         <pkg type="pkg">
             <open_url>true</open_url>
-            <download>http://pan.baidu.com/s/1i47nfRB</download>
-            <download_readme>下载密码: 2vpm. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压GSW_ALL_V1.2.zip. 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+            <download>http://pan.baidu.com/s/1eRQwd26</download>
+            <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压GSW_ALL_V1.3.zip. 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1qYKmss0 密码: gvz8</download_readme>
             <category>/GSW</category>
-            <name>古诗文离线包V1.2</name>
-            <name_code>GSW_ALL_V1.2</name_code>
+            <name>古诗文离线包V1.3</name>
+            <name_code>GSW_ALL_V1.3</name_code>
             <update_code>GSW_ALL</update_code>
-            <version>12</version>
-            <zip_size>445MB</zip_size>
+            <version>13</version>
+            <zip_size>543MB</zip_size>
+            <type>GSW</type>
+        </pkg>
+    </GSW>
+	<GSW type="dir">
+        <pkg type="pkg">
+            <open_url>true</open_url>
+            <download>http://pan.baidu.com/s/1i56nzvB</download>
+            <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压GSW_EXT1_V1.3.zip. 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1o7BmIj4 密码: v9y9</download_readme>
+            <category>/GSW</category>
+            <name>古诗文扩展一离线包V1.3</name>
+            <name_code>GSW_EXT1_V1.3</name_code>
+            <update_code>GSW_EXT1</update_code>
+            <version>13</version>
+            <zip_size>489.2MB</zip_size>
+            <type>GSW</type>
+        </pkg>
+    </GSW>
+	<GSW type="dir">
+        <pkg type="pkg">
+            <open_url>true</open_url>
+            <download>http://pan.baidu.com/s/1o8pOo7g</download>
+            <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压GSW_EXT2_V1.3.zip. 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1hsz3Ra0 密码: 4etn</download_readme>
+            <category>/GSW</category>
+            <name>古诗文扩展二离线包V1.3</name>
+            <name_code>GSW_EXT2_V1.3</name_code>
+            <update_code>GSW_EXT2</update_code>
+            <version>13</version>
+            <zip_size>826.7MB</zip_size>
             <type>GSW</type>
         </pkg>
     </GSW>
@@ -66,258 +94,258 @@
         <GZ type="dir">
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1gfxzrGn</download>
-                <download_readme>下载密码: 74z8. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中语文离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1gfhpb7H</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中语文离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1c2JoQrA 密码: x2aw</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中语文离线试题包V4.5</name>
-                <name_code>ST_YW_GZ_V4.5</name_code>
+                <name>高中语文离线试题包V4.6</name>
+                <name_code>ST_YW_GZ_V4.6</name_code>
                 <update_code>ST_YW_GZ</update_code>
-                <version>45</version>
-                <zip_size>519.5MB</zip_size>
+                <version>46</version>
+                <zip_size>518.8MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1dEIlSkx</download>
-                <download_readme>下载密码: u46e. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中数学离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1jH9YX18</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中数学离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1geOYimZ 密码: w9pq</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中数学离线试题包V4.5</name>
-                <name_code>ST_SX_GZ_V4.5</name_code>
+                <name>高中数学离线试题包V4.6</name>
+                <name_code>ST_SX_GZ_V4.6</name_code>
                 <update_code>ST_SX_GZ</update_code>
-                <version>45</version>
-                <zip_size>1.37GB</zip_size>
+                <version>46</version>
+                <zip_size>1.38GB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1i5rV7Sx</download>
-                <download_readme>下载密码: xjwh. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中英语离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1miyFJ6o</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中英语离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1i47ZgBb 密码: 7hvx</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中英语离线试题包V4.5</name>
-                <name_code>ST_YY_GZ_V4.5</name_code>
+                <name>高中英语离线试题包V4.6</name>
+                <name_code>ST_YY_GZ_V4.6</name_code>
                 <update_code>ST_YY_GZ</update_code>
-                <version>45</version>
-                <zip_size>474.5MB</zip_size>
+                <version>46</version>
+                <zip_size>348.8MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1pKHl8fx</download>
-                <download_readme>下载密码: tb7u. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中历史离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1o8w9NT4</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中历史离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1o8GmCmI 密码: 4qcf</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中历史离线试题包V4.5</name>
-                <name_code>ST_LS_GZ_V4.5</name_code>
+                <name>高中历史离线试题包V4.6</name>
+                <name_code>ST_LS_GZ_V4.6</name_code>
                 <update_code>ST_LS_GZ</update_code>
-                <version>45</version>
-                <zip_size>606.6MB</zip_size>
+                <version>46</version>
+                <zip_size>696MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1mhNxsAc</download>
-                <download_readme>下载密码: k383. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中政治离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1jI4j5vK</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中政治离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1i56nzyl 密码: fikq</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中政治离线试题包V4.5</name>
-                <name_code>ST_ZZ_GZ_V4.5</name_code>
+                <name>高中政治离线试题包V4.6</name>
+                <name_code>ST_ZZ_GZ_V4.6</name_code>
                 <update_code>ST_ZZ_GZ</update_code>
-                <version>45</version>
-                <zip_size>423.6MB</zip_size>
+                <version>46</version>
+                <zip_size>434.6MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1qYh7TUW</download>
-                <download_readme>下载密码: dp25. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中地理离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1eRIU6Ym</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中地理离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1o7V50zo 密码: 3dhx</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中地理离线试题包V4.5</name>
-                <name_code>ST_DL_GZ_V4.5</name_code>
+                <name>高中地理离线试题包V4.6</name>
+                <name_code>ST_DL_GZ_V4.6</name_code>
                 <update_code>ST_DL_GZ</update_code>
-                <version>45</version>
-                <zip_size>1.37GB</zip_size>
+                <version>46</version>
+                <zip_size>1.43GB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1eRYyR3G</download>
-                <download_readme>下载密码: n551. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中物理离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1kU7pdt1</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中物理离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1i5Lg63r 密码: fdhw</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中物理离线试题包V4.5</name>
-                <name_code>ST_WL_GZ_V4.5</name_code>
+                <name>高中物理离线试题包V4.6</name>
+                <name_code>ST_WL_GZ_V4.6</name_code>
                 <update_code>ST_WL_GZ</update_code>
-                <version>45</version>
-                <zip_size>1.06GB</zip_size>
+                <version>46</version>
+                <zip_size>1.1GB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1i4ZEGvj</download>
-                <download_readme>下载密码: r1m8. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中化学离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1gfe7keJ</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中化学离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1qY4DnXU 密码: bxy3</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中化学离线试题包V4.5</name>
-                <name_code>ST_HX_GZ_V4.5</name_code>
+                <name>高中化学离线试题包V4.6</name>
+                <name_code>ST_HX_GZ_V4.6</name_code>
                 <update_code>ST_HX_GZ</update_code>
-                <version>45</version>
-                <zip_size>797.7MB</zip_size>
+                <version>46</version>
+                <zip_size>823.9MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1bPd9RC</download>
-                <download_readme>下载密码: imqf. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中生物离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1dFhtgBZ</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"高中生物离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1kUCEHqJ 密码: 96vh</download_readme>
                 <category>/ST/GZ</category>
-                <name>高中生物离线试题包V4.5</name>
-                <name_code>ST_SW_GZ_V4.5</name_code>
+                <name>高中生物离线试题包V4.6</name>
+                <name_code>ST_SW_GZ_V4.6</name_code>
                 <update_code>ST_SW_GZ</update_code>
-                <version>45</version>
-                <zip_size>147.4MB</zip_size>
+                <version>46</version>
+                <zip_size>162.1MB</zip_size>
                 <type>ST</type>
             </pkg>
         </GZ>
 		<CZ type="dir">
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1o7KByLO</download>
-                <download_readme>下载密码: kirs. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中语文离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1miLayyW</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中语文离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1c1U3TBy 密码: cggu</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中语文离线试题包V4.5</name>
-                <name_code>ST_YW_CZ_V4.5</name_code>
+                <name>初中语文离线试题包V4.6</name>
+                <name_code>ST_YW_CZ_V4.6</name_code>
                 <update_code>ST_YW_CZ</update_code>
-                <version>45</version>
-                <zip_size>321.6MB</zip_size>
+                <version>46</version>
+                <zip_size>324.1MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1ca8QEq</download>
-                <download_readme>下载密码: qxmp. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中数学离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1kUVB8d5</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中数学离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1c1Ncxag 密码: uvgx</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中数学离线试题包V4.5</name>
-                <name_code>ST_SX_CZ_V4.5</name_code>
+                <name>初中数学离线试题包V4.6</name>
+                <name_code>ST_SX_CZ_V4.6</name_code>
                 <update_code>ST_SX_CZ</update_code>
-                <version>45</version>
-                <zip_size>1.62GB</zip_size>
+                <version>46</version>
+                <zip_size>1.63GB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1nvxnfKl</download>
-                <download_readme>下载密码: ivdg. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中英语离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1o8yBHrW</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中英语离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1qYCeOc0 密码: 14wm</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中英语离线试题包V4.5</name>
-                <name_code>ST_YY_CZ_V4.5</name_code>
+                <name>初中英语离线试题包V4.6</name>
+                <name_code>ST_YY_CZ_V4.6</name_code>
                 <update_code>ST_YY_CZ</update_code>
-                <version>45</version>
-                <zip_size>522.3MB</zip_size>
+                <version>46</version>
+                <zip_size>754.9MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1eRL7ECi</download>
-                <download_readme>下载密码: pid4. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中历史离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1o8haL8u</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中历史离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1mhIItSW 密码: xci8</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中历史离线试题包V4.5</name>
-                <name_code>ST_LS_CZ_V4.5</name_code>
+                <name>初中历史离线试题包V4.6</name>
+                <name_code>ST_LS_CZ_V4.6</name_code>
                 <update_code>ST_LS_CZ</update_code>
-                <version>45</version>
-                <zip_size>940.3MB</zip_size>
+                <version>46</version>
+                <zip_size>1.02GB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1hr7q0lQ</download>
-                <download_readme>下载密码: pd5y. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中政治离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1i4DyMjz</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中政治离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1dFp0B2D 密码: g7di</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中政治离线试题包V4.5</name>
-                <name_code>ST_ZZ_CZ_V4.5</name_code>
+                <name>初中政治离线试题包V4.6</name>
+                <name_code>ST_ZZ_CZ_V4.6</name_code>
                 <update_code>ST_ZZ_CZ</update_code>
-                <version>45</version>
-                <zip_size>409.3MB</zip_size>
+                <version>46</version>
+                <zip_size>414MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1jIxtkNk</download>
-                <download_readme>下载密码: j6aq. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中地理离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1o85xsIe</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中地理离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1o7DU7f8 密码: my6t</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中地理离线试题包V4.5</name>
-                <name_code>ST_DL_CZ_V4.5</name_code>
+                <name>初中地理离线试题包V4.6</name>
+                <name_code>ST_DL_CZ_V4.6</name_code>
                 <update_code>ST_DL_CZ</update_code>
-                <version>45</version>
-                <zip_size>961MB</zip_size>
+                <version>46</version>
+                <zip_size>975.7MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1i50Ja8t</download>
-                <download_readme>下载密码: i8d9. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中物理离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1kUUVChT</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中物理离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1bYBHSE 密码: se5a</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中物理离线试题包V4.5</name>
-                <name_code>ST_WL_CZ_V4.5</name_code>
+                <name>初中物理离线试题包V4.6</name>
+                <name_code>ST_WL_CZ_V4.6</name_code>
                 <update_code>ST_WL_CZ</update_code>
-                <version>45</version>
-                <zip_size>1.11GB</zip_size>
+                <version>46</version>
+                <zip_size>1.15GB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1pLUYWPH</download>
-                <download_readme>下载密码: 5r2m. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中化学离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1hsuKkDI</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中化学离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1dF1BQ17 密码: 6efk</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中化学离线试题包V4.5</name>
-                <name_code>ST_HX_CZ_V4.5</name_code>
+                <name>初中化学离线试题包V4.6</name>
+                <name_code>ST_HX_CZ_V4.6</name_code>
                 <update_code>ST_HX_CZ</update_code>
-                <version>45</version>
-                <zip_size>834.5MB</zip_size>
+                <version>46</version>
+                <zip_size>849.4MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1eSpZMBw</download>
-                <download_readme>下载密码: pscq. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中生物离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1dETLU7J</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"初中生物离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1jI4P2bs 密码: tf85</download_readme>
                 <category>/ST/CZ</category>
-                <name>初中生物离线试题包V4.5</name>
-                <name_code>ST_SW_CZ_V4.5</name_code>
+                <name>初中生物离线试题包V4.6</name>
+                <name_code>ST_SW_CZ_V4.6</name_code>
                 <update_code>ST_SW_CZ</update_code>
-                <version>45</version>
-                <zip_size>868.5MB</zip_size>
+                <version>46</version>
+                <zip_size>887.5MB</zip_size>
                 <type>ST</type>
             </pkg>
         </CZ>
         <XX type="dir">
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1o8rfyxs</download>
-                <download_readme>下载密码: h6yu. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"小学语文离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1nvarlET</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"小学语文离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1i5ucl1r 密码: a6c9</download_readme>
                 <category>/ST/XX</category>
-                <name>小学语文离线试题包V4.5</name>
-                <name_code>ST_YW_XX_V4.5</name_code>
+                <name>小学语文离线试题包V4.6</name>
+                <name_code>ST_YW_XX_V4.6</name_code>
                 <update_code>ST_YW_XX</update_code>
-                <version>45</version>
-                <zip_size>80.6MB</zip_size>
+                <version>46</version>
+                <zip_size>80.3MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1mhA6e4C</download>
-                <download_readme>下载密码: vxyd. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"小学数学离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1dFmIKnB</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"小学数学离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1i54R5Jn 密码: v285</download_readme>
                 <category>/ST/XX</category>
-                <name>小学数学离线试题包V4.5</name>
-                <name_code>ST_SX_XX_V4.5</name_code>
+                <name>小学数学离线试题包V4.6</name>
+                <name_code>ST_SX_XX_V4.6</name_code>
                 <update_code>ST_SX_XX</update_code>
-                <version>45</version>
-                <zip_size>670.9MB</zip_size>
+                <version>46</version>
+                <zip_size>686.9MB</zip_size>
                 <type>ST</type>
             </pkg>
             <pkg type="pkg">
                 <open_url>true</open_url>
-                <download>http://pan.baidu.com/s/1cfY98y</download>
-                <download_readme>下载密码: 3h9p. 因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"小学英语离线试题包V4.5.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.</download_readme>
+                <download>http://pan.baidu.com/s/1jIlmFd0</download>
+                <download_readme>因文件过大,为保证下载质量,暂不提供自动下载,请手动下载并解压"小学英语离线试题包V4.6.zip". 解压完成后,请进入离线包管理界面,按"+"并选择解压后的目录进行手动添加.备用地址:链接: http://pan.baidu.com/s/1geZh6bp 密码: pri7</download_readme>
                 <category>/ST/XX</category>
-                <name>小学英语离线试题包V4.5</name>
-                <name_code>ST_YY_XX_V4.5</name_code>
+                <name>小学英语离线试题包V4.6</name>
+                <name_code>ST_YY_XX_V4.6</name_code>
                 <update_code>ST_YY_XX</update_code>
-                <version>45</version>
-                <zip_size>249.1MB</zip_size>
+                <version>46</version>
+                <zip_size>238.6MB</zip_size>
                 <type>ST</type>
             </pkg>
         </XX>
