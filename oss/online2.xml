@@ -4,7 +4,7 @@
         <OCR type="dir">
             <pkg type="pkg">
                 <open_url>false</open_url>
-                <download>http://zjzdy.github.io/oss/ocr/zh_cn.zip</download>
+                <download>http://zjzdy.oschina.io/oss/ocr/zh_cn.zip</download>
                 <download_readme>加载本模块需要重启!</download_readme>
                 <category>/Mod/OCR</category>
                 <name>拍照搜索模块(简体中文)</name>
