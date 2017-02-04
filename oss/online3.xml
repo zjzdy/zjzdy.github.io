@@ -4,7 +4,7 @@
         <OCR type="dir">
             <pkg type="pkg">
                 <open_url>false</open_url>
-                <download>http://zjzdy.github.io/oss/ocr/zh_cn.zip</download>
+                <download>http://zjzdy.oschina.io/oss/ocr/zh_cn.zip</download>
                 <download_readme>加载本模块需要重启!</download_readme>
                 <category>/Mod/OCR</category>
                 <name>拍照搜索模块(简体中文)</name>
@@ -20,7 +20,7 @@
             </pkg>
 			<pkg type="pkg">
                 <open_url>false</open_url>
-                <download>http://zjzdy.github.io/oss/ocr/eng.zip</download>
+                <download>http://zjzdy.oschina.io/oss/ocr/eng.zip</download>
                 <download_readme>使用本模块会降低程序启动速度,加载本模块需要重启!</download_readme>
                 <category>/Mod/OCR</category>
                 <name>拍照搜索附加模块(英文)</name>
@@ -34,7 +34,7 @@
             </pkg>
 			<pkg type="pkg">
                 <open_url>false</open_url>
-                <download>http://zjzdy.github.io/oss/ocr/cht.zip</download>
+                <download>http://zjzdy.oschina.io/oss/ocr/cht.zip</download>
                 <download_readme>使用本模块会降低程序启动速度,加载本模块需要重启!</download_readme>
                 <category>/Mod/OCR</category>
                 <name>拍照搜索附加模块(繁体中文)</name>
